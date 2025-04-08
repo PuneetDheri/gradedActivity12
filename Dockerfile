@@ -10,4 +10,6 @@ COPY . .
 # Expose the app's port
 EXPOSE 3000
 # Command to run the app
-CMD ["node", "server.js"]
+CMD ["node", "server
+
+#testing a change
